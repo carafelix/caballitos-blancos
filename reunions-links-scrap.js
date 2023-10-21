@@ -12,6 +12,7 @@ function getCalendaryResults_urls_hipodromochile(){
     for(let year = 1998; year<2023; year++){
         links.push(`${base}carreras-calendario-anual?id_pais_programa=&fecha_reunion=0000-00-00&fecha_reunion_ano=${year}&fecha_reunion_mes=12#calendario_anual_12`)
     }
+    links.push('stoper')
     return links
 }
 
@@ -43,22 +44,36 @@ async function parseSite_getLinks(html){ //string
     return urlList
 }
 
-const json = {
+const storage = {
+    "reuniones": [],
+}
+
+const calendary = getCalendaryResults_urls_hipodromochile();
+
+
+async function scrap(arr,index){
+
+    if(index >= arr.length-1){
+        const filePath = __dirname + '/out/' + 'r.json'
+        console.log(storage.reuniones)
+        return fs.writeFileSync( filePath, JSON.stringify(storage))
+    } else {
+
+        const result = getSite(arr,index)
+        result
+            .then((response)=>{
+                return parseSite_getLinks(response)
+            }).then((data)=>{
+                storage.reuniones = storage.reuniones.concat(data)
+            }).then(()=>{
+                return scrap(arr, index+1)
+            })
+    }
     
 }
 
+const test = [
+    "https://hch.elturf.com/hipodromochile/carreras-calendario-anual?id_pais_programa=&fecha_reunion=0000-00-00&fecha_reunion_ano=2023&fecha_reunion_mes=12#calendario_anual_12"
+    , 'stoper'
+]
 
-async function scrap(){
-
-    const calendary = getCalendaryResults_urls_hipodromochile();
-
-    const result = getSite(arr, index)
-
-    result
-        .then((response)=>{
-            const urlList = parseSite_getLinks(response)
-            console.log(urlList)
-        })
-}
-
-scrap()
