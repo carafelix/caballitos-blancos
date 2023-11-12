@@ -57,8 +57,9 @@ async function getSite(links, index){ // str[], int
 let acc = 0;
 
 async function parseSite(html,parentLink){ //string
+    if(!html) return false;
     const load = cheerio.load(html)
-    const reunion_title = load('.tituloshome')[0].firstChild.data
+    const reunion_title = load('.tituloshome')[0]?.firstChild?.data
     const races = []
 
     const rows = load('tbody').find('tr[style="vertical-align:top;"]')
@@ -97,17 +98,20 @@ async function scrap(arr,index){
 
         const result = getSite(arr,index)
 
+        if(!result) return fs.writeFileSync( filePath, JSON.stringify(storage));
+
         result
             .then((response)=>{
                 return parseSite(response[0],response[1])
             }).then((data)=>{
                 storage = storage.concat(data)
             }).then(()=>{
+                console.log(acc)
                 return scrap(arr, index+1)
             })
     }
     
 }
 
-scrap(test, 0)
+scrap(links, 0)
 
