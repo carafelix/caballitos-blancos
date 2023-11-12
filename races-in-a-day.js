@@ -91,8 +91,9 @@ async function parseSite(html,parentLink){ //string
 
 async function scrap(arr,index){
 
+    const filePath = __dirname + '/out/' + 'races_2.json'
+
     if(index >= arr.length){
-        const filePath = __dirname + '/out/' + 'races_2.json'
         return fs.writeFileSync( filePath, JSON.stringify(storage))
     } else {
 
