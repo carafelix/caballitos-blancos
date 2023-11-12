@@ -56,7 +56,7 @@ async function scrap(arr,index){
     if(index >= arr.length-1){
         const filePath = __dirname + '/out/' + 'r.json'
         console.log(storage.reuniones)
-        return fs.writeFileSync( filePath, JSON.stringify(storage))
+        // return fs.writeFileSync( filePath, JSON.stringify(storage))
     } else {
 
         const result = getSite(arr,index)
@@ -73,7 +73,10 @@ async function scrap(arr,index){
 }
 
 const test = [
-    "https://hch.elturf.com/hipodromochile/carreras-calendario-anual?id_pais_programa=&fecha_reunion=0000-00-00&fecha_reunion_ano=2023&fecha_reunion_mes=12#calendario_anual_12"
-    , 'stoper'
+    "https://hch.elturf.com/hipodromochile/carreras-calendario-anual?id_pais_programa=&fecha_reunion=0000-00-00&fecha_reunion_ano=2020&fecha_reunion_mes=12#calendario_anual_12",
+    "https://hch.elturf.com/hipodromochile/carreras-calendario-anual?id_pais_programa=&fecha_reunion=0000-00-00&fecha_reunion_ano=2021&fecha_reunion_mes=12#calendario_anual_12",
+    'stoper'
 ]
+
+// scrap(test, 0)
 

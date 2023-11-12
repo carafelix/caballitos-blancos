@@ -5,7 +5,8 @@
   "main": "results-scrap.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node results-scrap.js"
+    "reunions": "node reunions-links-scrap.js",
+    "dayraces": "node races-in-a-day.js"
   },
   "keywords": [],
   "author": "",
