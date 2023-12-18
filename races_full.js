@@ -8,7 +8,7 @@ const buffer = require('buffer')
 
 const filePath = __dirname + '/out/' + 'races_results.json';
 const stream = fs.createWriteStream(filePath)
-stream.write('[')
+// stream.write('[]');
 
 // functions
 
@@ -28,22 +28,16 @@ async function getSite(links, index){ // str[], int
     return buffer.transcode(axiosResponse.data, "binary" ,'latin1').toString("binary")
 }
 
-async function parseSite(html){ //string
+async function parseSite(html, index){ //string
     if(!html) return false;
     const load = cheerio.load(html)
-    const races = []
     
-    const row = load('.success')
-    return row[0].attribs
+    const v = load('#current-clima')
+    console.log(v);
+    return 
 }
 
-const test = ["https://hch.elturf.com/hipodromochile/carreras-ultimos-resultados?id_pais_programa=&fecha_reunion=2020-8-29#","https://hch.elturf.com/hipodromochile/carreras-ultimos-resultados?id_pais_programa=&fecha_reunion=2020-8-29#"]
-
-
-
-
 async function scrap(arr,index){    // Recursive Method
-
 
     if(index >= arr.length){
         stream.write(']');
@@ -63,7 +57,7 @@ async function scrap(arr,index){    // Recursive Method
         } 
         result
             .then((response)=>{
-                return parseSite(response)
+                return parseSite(response, index)
             }).then((data)=>{
 
                 if(index === arr.length-1){
@@ -71,7 +65,7 @@ async function scrap(arr,index){    // Recursive Method
                 } else data = JSON.stringify(data) + ',';
 
                 return stream.write(data);
-                
+
             }).then(()=>{
                 return scrap(arr, index+1)
             })
@@ -83,14 +77,12 @@ async function scrapIterative(arr,index){
     const filePath = __dirname + '/out/' + '_test.json'
 
     const stream = fs.createWriteStream(filePath)
-
-
-    
-    
     
 }
-scrap(test,0)
 
+const test = ["https://www.clubhipico.cl/carreras/programa-y-resultados/?fecha=2023-11-10&carrera=4"]
+
+scrap(test,0)
 // scrapIterative();
 
 // for await(const site of arr){

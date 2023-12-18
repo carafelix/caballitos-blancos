@@ -89,7 +89,7 @@ async function parseSite(html,parentLink){ //string
 }
 
 
-async function scrap(arr,index){
+async function scrap(arr,index){ // check out races_full.js stream logic. much better since if the script fails at some point you don't lose it all
 
     const filePath = __dirname + '/out/' + 'races_2.json'
 
