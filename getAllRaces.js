@@ -1,7 +1,11 @@
+#!/bin/bash/env node
+
 const axios = require('axios')
 const ids = require('./out/ids.json')
 const fs = require('fs')
 const { setTimeout } = require("timers/promises");
+const { createSpinner } = require('nanospinner')
+
 
 async function getData(id){
     let response;
@@ -34,41 +38,51 @@ async function main(){
 
     const filePath = __dirname + '/out/' + 'full_data.json'
     const stream = fs.createWriteStream(filePath)
-    // stream.write('[')
+    stream.write('[')
 
     let time = new Date();
+    let finishingTime;
+    console.log('\n');
+    const spinner = createSpinner('DATA DATA DATA WE GO!').start()
 
-    for(let i = 645; i < ids.length; i++){
+    for(let i = 0; i < ids.length; i++){
         const id = ids[i]
         const data = await getData(id);
 
         if(!data.carreras_reunion){
             stream.write(']')
-            stream.close(()=>{
-                console.log(`Result was undefined. Closing at: ${i}`)
-            })
+            stream.close()
+            spinner.error({ text: `Mission Failed! At least it we got up to ${i} races`, mark: ':(' })
             return;
         }
 
         data.carreras_reunion = data.carreras_reunion.filter(race => race.id_carrera == id);
         stream.write(JSON.stringify(data))
         stream.write(',')
-        
+
+
         if(!(i%10)){
             const startingTime = time;
             const expectedTime = (new Date() - time) * ((ids.length - i)/10) 
-            let finishingTime = new Date(startingTime.getTime() + expectedTime);
+            finishingTime = new Date(startingTime.getTime() + expectedTime);
             finishingTime = finishingTime.toLocaleTimeString()
             time = new Date()
-            console.log(`Expected finishing time: ${finishingTime}`)
         }
 
-        console.log(`${i} out of ${ids.length}.`)
+        spinner.update({
+            text: `DATA DATA DATA! we are at ${i} out of ${ids.length}. Expected finishing time: ${finishingTime}`,
+            color: 'white',
+            stream: process.stdout,
+            interval: 100,
+          })
+
     }
     stream.write(']')
     stream.close(()=>{
         console.log(`All DATA!`)
     })
+    spinner.success({ text: 'Successful!', mark: ':)' })
+
 }
 
 main()
