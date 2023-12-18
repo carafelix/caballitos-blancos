@@ -8,7 +8,7 @@ const buffer = require('buffer')
 
 const filePath = __dirname + '/out/' + 'races_results.json';
 const stream = fs.createWriteStream(filePath)
-// stream.write('[]');
+// stream.write('[');
 
 // functions
 
