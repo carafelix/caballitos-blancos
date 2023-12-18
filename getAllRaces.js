@@ -26,6 +26,7 @@ async function main(){
 
     const filePath = __dirname + '/out/' + 'full_data.json'
     const stream = fs.createWriteStream(filePath)
+    let time = new Date();
     stream.write('[')
     for(let i = 0; i < ids.length; i++){
         const id = ids[i]
@@ -42,8 +43,13 @@ async function main(){
         data.carreras_reunion = data.carreras_reunion.filter(race => race.id_carrera == id);
         stream.write(JSON.stringify(data))
         stream.write(',')
+        
+        const startingTime = time;
+        const expectedTime = (new Date() - time) * (ids.length - i)
+        finishingTime = new Date(startingTime.getTime() + expectedTime);
+        finishingTime = finishingTime.toLocaleTimeString()
 
-        console.log(`${i} out of ${ids.length}`)
+        console.log(`${i} out of ${ids.length}. Expected finish time: ${finishingTime}`)
     }
     stream.write(']')
     stream.close(()=>{
