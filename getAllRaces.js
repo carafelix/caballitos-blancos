@@ -34,8 +34,11 @@ async function main(){
 
     const filePath = __dirname + '/out/' + 'full_data.json'
     const stream = fs.createWriteStream(filePath)
-    stream.write('[')
-    for(let i = 0; i < ids.length; i++){
+    // stream.write('[')
+
+    let time = new Date();
+
+    for(let i = 645; i < ids.length; i++){
         const id = ids[i]
         const data = await getData(id);
 
@@ -51,6 +54,15 @@ async function main(){
         stream.write(JSON.stringify(data))
         stream.write(',')
         
+        if(!(i%10)){
+            const startingTime = time;
+            const expectedTime = (new Date() - time) * ((ids.length - i)/10) 
+            let finishingTime = new Date(startingTime.getTime() + expectedTime);
+            finishingTime = finishingTime.toLocaleTimeString()
+            time = new Date()
+            console.log(`Expected finishing time: ${finishingTime}`)
+        }
+
         console.log(`${i} out of ${ids.length}.`)
     }
     stream.write(']')
