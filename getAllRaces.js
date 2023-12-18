@@ -4,8 +4,9 @@ const fs = require('fs')
 const { setTimeout } = require("timers/promises");
 
 async function getData(id){
+    let response;
 	try {
-        const response = await fetch(`https://hipodromo.elturf.com/api/general/resultado-testfp/general/${id}`, {
+        response = await fetch(`https://hipodromo.elturf.com/api/general/resultado-testfp/general/${id}`, {
         "credentials": "omit",
         "headers": {
             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:120.0) Gecko/20100101 Firefox/120.0",
