@@ -16,6 +16,10 @@
     "cheerio": "^1.0.0-rc.12",
     "concurrently": "^8.2.2",
     "nanospinner": "^1.1.0",
+    "pg": "^8.11.3",
     "puppeteer": "^21.6.1"
+  },
+  "devDependencies": {
+    "prettier": "3.1.1"
   }
 }

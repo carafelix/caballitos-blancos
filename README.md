@@ -1,0 +1,3 @@
+- get the data
+- remodel the data to SQL
+- manipulate and graphic the data

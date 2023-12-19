@@ -1,0 +1,2810 @@
+{
+  "1": {
+    "id": 1,
+    "nombre": "Pedro Melej R.",
+    "nombre_1": "Pedro",
+    "nombre_2": "",
+    "apellido_p": "Melej",
+    "apellido_m": "R."
+  },
+  "2": {
+    "id": 2,
+    "nombre": "Sergio Inda M.",
+    "nombre_1": "Sergio",
+    "nombre_2": "",
+    "apellido_p": "Inda",
+    "apellido_m": "M."
+  },
+  "3": {
+    "id": 3,
+    "nombre": "Oscar Silva S.",
+    "nombre_1": "Oscar",
+    "nombre_2": "",
+    "apellido_p": "Silva",
+    "apellido_m": "S."
+  },
+  "4": {
+    "id": 4,
+    "nombre": "Ernesto Guajardo J.",
+    "nombre_1": "Ernesto",
+    "nombre_2": "",
+    "apellido_p": "Guajardo",
+    "apellido_m": "J."
+  },
+  "5": {
+    "id": 5,
+    "nombre": "Fernando Solar S.",
+    "nombre_1": "Fernando",
+    "nombre_2": "",
+    "apellido_p": "Solar",
+    "apellido_m": "S."
+  },
+  "6": {
+    "id": 6,
+    "nombre": "Carlos Vásquez P.",
+    "nombre_1": "Carlos",
+    "nombre_2": "",
+    "apellido_p": "Vásquez",
+    "apellido_m": "P."
+  },
+  "7": {
+    "id": 7,
+    "nombre": "Juan Paez",
+    "nombre_1": "Juan",
+    "nombre_2": "",
+    "apellido_p": "Paez",
+    "apellido_m": ""
+  },
+  "8": {
+    "id": 8,
+    "nombre": "Claudio Saide A.",
+    "nombre_1": "Claudio",
+    "nombre_2": "",
+    "apellido_p": "Saide",
+    "apellido_m": "A."
+  },
+  "9": {
+    "id": 9,
+    "nombre": "Alberto González R.",
+    "nombre_1": "Alberto",
+    "nombre_2": "",
+    "apellido_p": "González",
+    "apellido_m": "Rojas"
+  },
+  "10": {
+    "id": 10,
+    "nombre": "Juan Walker B.",
+    "nombre_1": "Juan",
+    "nombre_2": "",
+    "apellido_p": "Walker",
+    "apellido_m": "B."
+  },
+  "11": {
+    "id": 11,
+    "nombre": "Luis Bernal G.",
+    "nombre_1": "Luis",
+    "nombre_2": "",
+    "apellido_p": "Bernal",
+    "apellido_m": "G."
+  },
+  "12": {
+    "id": 12,
+    "nombre": "Carlos Miranda M.",
+    "nombre_1": "Carlos",
+    "nombre_2": "",
+    "apellido_p": "Miranda",
+    "apellido_m": "M."
+  },
+  "13": {
+    "id": 13,
+    "nombre": "Francisco Hernández M.",
+    "nombre_1": "Francisco",
+    "nombre_2": "",
+    "apellido_p": "Hernández",
+    "apellido_m": "M."
+  },
+  "14": {
+    "id": 14,
+    "nombre": "Juan Cavieres A.",
+    "nombre_1": "Juan",
+    "nombre_2": "",
+    "apellido_p": "Cavieres",
+    "apellido_m": "A."
+  },
+  "15": {
+    "id": 15,
+    "nombre": "Eleuterio Cortéz",
+    "nombre_1": "Eleuterio",
+    "nombre_2": "",
+    "apellido_p": "Cortéz",
+    "apellido_m": ""
+  },
+  "16": {
+    "id": 16,
+    "nombre": "Gabriel Reyes G.",
+    "nombre_1": "Gabriel",
+    "nombre_2": "",
+    "apellido_p": "Reyes",
+    "apellido_m": "G."
+  },
+  "17": {
+    "id": 17,
+    "nombre": "José Leiva L.",
+    "nombre_1": "José",
+    "nombre_2": "",
+    "apellido_p": "Leiva",
+    "apellido_m": "L."
+  },
+  "18": {
+    "id": 18,
+    "nombre": "Juan Gálvez L.",
+    "nombre_1": "Juan",
+    "nombre_2": "Francisco",
+    "apellido_p": "Gálvez",
+    "apellido_m": "Lucero"
+  },
+  "19": {
+    "id": 19,
+    "nombre": "Patricio Baeza A.",
+    "nombre_1": "Patricio",
+    "nombre_2": "",
+    "apellido_p": "Baeza",
+    "apellido_m": "A."
+  },
+  "20": {
+    "id": 20,
+    "nombre": "Oliverio Martínez L.",
+    "nombre_1": "Oliverio",
+    "nombre_2": "",
+    "apellido_p": "Martínez",
+    "apellido_m": "L."
+  },
+  "21": {
+    "id": 21,
+    "nombre": "Humberto Vera F.",
+    "nombre_1": "Humberto",
+    "nombre_2": "",
+    "apellido_p": "Vera",
+    "apellido_m": "F."
+  },
+  "22": {
+    "id": 22,
+    "nombre": "Carlos A. Flores C.",
+    "nombre_1": "Carlos",
+    "nombre_2": "Alisandro",
+    "apellido_p": "Flores",
+    "apellido_m": "Carrasco"
+  },
+  "23": {
+    "id": 23,
+    "nombre": "Oscar Escobar M.",
+    "nombre_1": "Oscar",
+    "nombre_2": "",
+    "apellido_p": "Escobar",
+    "apellido_m": "M."
+  },
+  "24": {
+    "id": 24,
+    "nombre": "Héctor Urrea R.",
+    "nombre_1": "Héctor",
+    "nombre_2": "",
+    "apellido_p": "Urrea",
+    "apellido_m": "R."
+  },
+  "25": {
+    "id": 25,
+    "nombre": "Enrique Leiva R.",
+    "nombre_1": "Enrique",
+    "nombre_2": "",
+    "apellido_p": "Leiva",
+    "apellido_m": "R."
+  },
+  "26": {
+    "id": 26,
+    "nombre": "Francisco Pinochet P.",
+    "nombre_1": "Francisco",
+    "nombre_2": "",
+    "apellido_p": "Pinochet",
+    "apellido_m": "P."
+  },
+  "27": {
+    "id": 27,
+    "nombre": "Rafael Bernal G.",
+    "nombre_1": "Rafael",
+    "nombre_2": "",
+    "apellido_p": "Bernal",
+    "apellido_m": "G."
+  },
+  "28": {
+    "id": 28,
+    "nombre": "Valentín Ubilla C.",
+    "nombre_1": "Valentín",
+    "nombre_2": "",
+    "apellido_p": "Ubilla",
+    "apellido_m": "C."
+  },
+  "29": {
+    "id": 29,
+    "nombre": "Guillermo Cordova T.",
+    "nombre_1": "Guillermo",
+    "nombre_2": "",
+    "apellido_p": "Cordova",
+    "apellido_m": "T."
+  },
+  "30": {
+    "id": 30,
+    "nombre": "John Pinochet P.",
+    "nombre_1": "John",
+    "nombre_2": "",
+    "apellido_p": "Pinochet",
+    "apellido_m": "P."
+  },
+  "31": {
+    "id": 31,
+    "nombre": "Juan L. Melero B.",
+    "nombre_1": "Juan",
+    "nombre_2": "L.",
+    "apellido_p": "Melero",
+    "apellido_m": "B."
+  },
+  "32": {
+    "id": 32,
+    "nombre": "Luis Catena C.",
+    "nombre_1": "Luis",
+    "nombre_2": "",
+    "apellido_p": "Catena",
+    "apellido_m": "C."
+  },
+  "33": {
+    "id": 33,
+    "nombre": "Alberto Donoso",
+    "nombre_1": "Alberto",
+    "nombre_2": "",
+    "apellido_p": "Donoso",
+    "apellido_m": ""
+  },
+  "34": {
+    "id": 34,
+    "nombre": "Osvaldo Urbina H.",
+    "nombre_1": "Osvaldo",
+    "nombre_2": "",
+    "apellido_p": "Urbina",
+    "apellido_m": "H."
+  },
+  "35": {
+    "id": 35,
+    "nombre": "Inés Maffud H.",
+    "nombre_1": "Inés",
+    "nombre_2": "",
+    "apellido_p": "Maffud",
+    "apellido_m": "H."
+  },
+  "36": {
+    "id": 36,
+    "nombre": "Luis Valdivia B.",
+    "nombre_1": "Luis",
+    "nombre_2": "",
+    "apellido_p": "Valdivia",
+    "apellido_m": "B."
+  },
+  "37": {
+    "id": 37,
+    "nombre": "Wilson Robles F.",
+    "nombre_1": "Wilson",
+    "nombre_2": "",
+    "apellido_p": "Robles",
+    "apellido_m": "F."
+  },
+  "38": {
+    "id": 38,
+    "nombre": "Enrique M. Becar B.",
+    "nombre_1": "Enrique",
+    "nombre_2": "Manuel",
+    "apellido_p": "Becar",
+    "apellido_m": "Barraza"
+  },
+  "39": {
+    "id": 39,
+    "nombre": "Ernesto Castro R.",
+    "nombre_1": "Ernesto",
+    "nombre_2": "",
+    "apellido_p": "Castro",
+    "apellido_m": "R."
+  },
+  "40": {
+    "id": 40,
+    "nombre": "Luis Rojas E.",
+    "nombre_1": "Luis",
+    "nombre_2": "",
+    "apellido_p": "Rojas",
+    "apellido_m": "E."
+  },
+  "41": {
+    "id": 41,
+    "nombre": "José Bravo M.",
+    "nombre_1": "José",
+    "nombre_2": "",
+    "apellido_p": "Bravo",
+    "apellido_m": "M."
+  },
+  "42": {
+    "id": 42,
+    "nombre": "Leopoldo Parra G.",
+    "nombre_1": "Leopoldo",
+    "nombre_2": "",
+    "apellido_p": "Parra",
+    "apellido_m": "G."
+  },
+  "43": {
+    "id": 43,
+    "nombre": "Delfín López M.",
+    "nombre_1": "Delfín",
+    "nombre_2": "",
+    "apellido_p": "López",
+    "apellido_m": "M."
+  },
+  "44": {
+    "id": 44,
+    "nombre": "Ángel Quiróz A.",
+    "nombre_1": "Angel",
+    "nombre_2": "",
+    "apellido_p": "Quiroz",
+    "apellido_m": "A."
+  },
+  "45": {
+    "id": 45,
+    "nombre": "Pedro Guzmán",
+    "nombre_1": "Pedro",
+    "nombre_2": "",
+    "apellido_p": "Guzmán",
+    "apellido_m": ""
+  },
+  "46": {
+    "id": 46,
+    "nombre": "José Ignacio Inda D.",
+    "nombre_1": "José",
+    "nombre_2": "I.",
+    "apellido_p": "Inda",
+    "apellido_m": "D."
+  },
+  "47": {
+    "id": 47,
+    "nombre": "Cristian Muñoz G.",
+    "nombre_1": "Cristian",
+    "nombre_2": "",
+    "apellido_p": "Muñoz",
+    "apellido_m": "G."
+  },
+  "48": {
+    "id": 48,
+    "nombre": "Raúl Vera",
+    "nombre_1": "Raúl",
+    "nombre_2": "",
+    "apellido_p": "Vera",
+    "apellido_m": ""
+  },
+  "49": {
+    "id": 49,
+    "nombre": "Juan Manríquez Q.",
+    "nombre_1": "Juan",
+    "nombre_2": "",
+    "apellido_p": "Manríquez",
+    "apellido_m": "Q."
+  },
+  "50": {
+    "id": 50,
+    "nombre": "Alejandro Padovani E.",
+    "nombre_1": "Alejandro",
+    "nombre_2": "",
+    "apellido_p": "Padovani",
+    "apellido_m": "E."
+  },
+  "51": {
+    "id": 51,
+    "nombre": "Luis Guerrero D.",
+    "nombre_1": "Luis",
+    "nombre_2": "",
+    "apellido_p": "Guerrero",
+    "apellido_m": "D."
+  },
+  "52": {
+    "id": 52,
+    "nombre": "Pedro Polanco B.",
+    "nombre_1": "Pedro",
+    "nombre_2": "",
+    "apellido_p": "Polanco",
+    "apellido_m": "B."
+  },
+  "53": {
+    "id": 53,
+    "nombre": "Enrique A. Carreño R.",
+    "nombre_1": "Enrique",
+    "nombre_2": "Alonso",
+    "apellido_p": "Carreño",
+    "apellido_m": "Rojas"
+  },
+  "54": {
+    "id": 54,
+    "nombre": "Héctor Morales B.",
+    "nombre_1": "Héctor",
+    "nombre_2": "",
+    "apellido_p": "Morales",
+    "apellido_m": "B."
+  },
+  "55": {
+    "id": 55,
+    "nombre": "Ernesto Inda S.",
+    "nombre_1": "Ernesto",
+    "nombre_2": "",
+    "apellido_p": "Inda",
+    "apellido_m": "S."
+  },
+  "56": {
+    "id": 56,
+    "nombre": "Guillermo Peralta P.",
+    "nombre_1": "Guillermo",
+    "nombre_2": "",
+    "apellido_p": "Peralta",
+    "apellido_m": "P."
+  },
+  "57": {
+    "id": 57,
+    "nombre": "Pedro Melero B.",
+    "nombre_1": "Pedro",
+    "nombre_2": "",
+    "apellido_p": "Melero",
+    "apellido_m": "B."
+  },
+  "58": {
+    "id": 58,
+    "nombre": "Roberto Jaque P.",
+    "nombre_1": "Roberto",
+    "nombre_2": "",
+    "apellido_p": "Jaque",
+    "apellido_m": "P."
+  },
+  "59": {
+    "id": 59,
+    "nombre": "Rodolfo Valdivieso G.",
+    "nombre_1": "Rodolfo",
+    "nombre_2": "",
+    "apellido_p": "Valdivieso",
+    "apellido_m": "G."
+  },
+  "60": {
+    "id": 60,
+    "nombre": "Alfonso Carreño",
+    "nombre_1": "Alfonso",
+    "nombre_2": "",
+    "apellido_p": "Carreño",
+    "apellido_m": ""
+  },
+  "61": {
+    "id": 61,
+    "nombre": "Antonio Bullezú M.",
+    "nombre_1": "Antonio",
+    "nombre_2": "",
+    "apellido_p": "Bullezú",
+    "apellido_m": "M."
+  },
+  "62": {
+    "id": 62,
+    "nombre": "Héctor Muñoz",
+    "nombre_1": "Héctor",
+    "nombre_2": "",
+    "apellido_p": "Muñoz",
+    "apellido_m": ""
+  },
+  "63": {
+    "id": 63,
+    "nombre": "Delfín Bernal G.",
+    "nombre_1": "Delfín",
+    "nombre_2": "",
+    "apellido_p": "Bernal",
+    "apellido_m": "G."
+  },
+  "64": {
+    "id": 64,
+    "nombre": "Sergio Romero C.",
+    "nombre_1": "Sergio",
+    "nombre_2": "",
+    "apellido_p": "Romero",
+    "apellido_m": "C."
+  },
+  "65": {
+    "id": 65,
+    "nombre": "José Allende F.",
+    "nombre_1": "José",
+    "nombre_2": "",
+    "apellido_p": "Allende",
+    "apellido_m": "Fernandez"
+  },
+  "66": {
+    "id": 66,
+    "nombre": "Gabriel Melej R.",
+    "nombre_1": "Gabriel",
+    "nombre_2": "",
+    "apellido_p": "Melej",
+    "apellido_m": "R."
+  },
+  "67": {
+    "id": 67,
+    "nombre": "Miguel Medina T.",
+    "nombre_1": "Miguel",
+    "nombre_2": "Angel",
+    "apellido_p": "Medina",
+    "apellido_m": "Turner"
+  },
+  "68": {
+    "id": 68,
+    "nombre": "Emilio Quiroga",
+    "nombre_1": "Emilio",
+    "nombre_2": "",
+    "apellido_p": "Quiroga",
+    "apellido_m": ""
+  },
+  "69": {
+    "id": 69,
+    "nombre": "Waleska Peña P.",
+    "nombre_1": "Waleska",
+    "nombre_2": "",
+    "apellido_p": "Peña",
+    "apellido_m": "P."
+  },
+  "70": {
+    "id": 70,
+    "nombre": "Samuel Fuentes",
+    "nombre_1": "Samuel",
+    "nombre_2": "",
+    "apellido_p": "Fuentes",
+    "apellido_m": ""
+  },
+  "71": {
+    "id": 71,
+    "nombre": "Antonio Abarca G.",
+    "nombre_1": "Antonio",
+    "nombre_2": "",
+    "apellido_p": "Abarca",
+    "apellido_m": "G."
+  },
+  "72": {
+    "id": 72,
+    "nombre": "Marcelo Parisi N.",
+    "nombre_1": "Marcelo",
+    "nombre_2": "",
+    "apellido_p": "Parisi",
+    "apellido_m": "N."
+  },
+  "73": {
+    "id": 73,
+    "nombre": "Alejandro Aguado C.",
+    "nombre_1": "Alejandro",
+    "nombre_2": "",
+    "apellido_p": "Aguado",
+    "apellido_m": "C."
+  },
+  "74": {
+    "id": 74,
+    "nombre": "Domingo Matte D.",
+    "nombre_1": "Domingo",
+    "nombre_2": "",
+    "apellido_p": "Matte",
+    "apellido_m": "D."
+  },
+  "75": {
+    "id": 75,
+    "nombre": "Gerardo Silva B.",
+    "nombre_1": "Gerardo",
+    "nombre_2": "",
+    "apellido_p": "Silva",
+    "apellido_m": "B."
+  },
+  "76": {
+    "id": 76,
+    "nombre": "Andrés Bernal G.",
+    "nombre_1": "Andrés",
+    "nombre_2": "",
+    "apellido_p": "Bernal",
+    "apellido_m": "G."
+  },
+  "77": {
+    "id": 77,
+    "nombre": "Juan C. Pichara J.",
+    "nombre_1": "Juan",
+    "nombre_2": "C.",
+    "apellido_p": "Pichara",
+    "apellido_m": "J."
+  },
+  "78": {
+    "id": 78,
+    "nombre": "Manuel Velarde B.",
+    "nombre_1": "Manuel",
+    "nombre_2": "",
+    "apellido_p": "Velarde",
+    "apellido_m": "B."
+  },
+  "79": {
+    "id": 79,
+    "nombre": "Rodrigo López B.",
+    "nombre_1": "Rodrigo",
+    "nombre_2": "Augusto",
+    "apellido_p": "López",
+    "apellido_m": "Breque"
+  },
+  "80": {
+    "id": 80,
+    "nombre": "Raúl Serrano G.",
+    "nombre_1": "Raúl",
+    "nombre_2": "",
+    "apellido_p": "Serrano",
+    "apellido_m": "G."
+  },
+  "81": {
+    "id": 81,
+    "nombre": "Felipe Saba C.",
+    "nombre_1": "Felipe",
+    "nombre_2": "",
+    "apellido_p": "Saba",
+    "apellido_m": "C."
+  },
+  "82": {
+    "id": 82,
+    "nombre": "Geraldo Georgudis",
+    "nombre_1": "Geraldo",
+    "nombre_2": "",
+    "apellido_p": "Georgudis",
+    "apellido_m": ""
+  },
+  "83": {
+    "id": 83,
+    "nombre": "Luis Toledo C.",
+    "nombre_1": "Luis",
+    "nombre_2": "",
+    "apellido_p": "Toledo",
+    "apellido_m": "C."
+  },
+  "86": {
+    "id": 86,
+    "nombre": "Miguel Campos",
+    "nombre_1": "Miguel",
+    "nombre_2": "",
+    "apellido_p": "Campos",
+    "apellido_m": ""
+  },
+  "88": {
+    "id": 88,
+    "nombre": "Reinaldo Chamorro B.",
+    "nombre_1": "Angel",
+    "nombre_2": "Reinaldo",
+    "apellido_p": "Chamorro",
+    "apellido_m": "Bacho"
+  },
+  "95": {
+    "id": 95,
+    "nombre": "Raúl Venegas V.",
+    "nombre_1": "Raúl",
+    "nombre_2": "Enrique",
+    "apellido_p": "Venegas",
+    "apellido_m": "Venegas"
+  },
+  "96": {
+    "id": 96,
+    "nombre": "Juan Belzu O.",
+    "nombre_1": "Juan",
+    "nombre_2": "",
+    "apellido_p": "Belzu",
+    "apellido_m": "O."
+  },
+  "97": {
+    "id": 97,
+    "nombre": "Gerardo Melo M.",
+    "nombre_1": "José",
+    "nombre_2": "Gerardo",
+    "apellido_p": "Melo",
+    "apellido_m": "Mellado"
+  },
+  "99": {
+    "id": 99,
+    "nombre": "Miguel Norambuena B.",
+    "nombre_1": "Miguel",
+    "nombre_2": "",
+    "apellido_p": "Norambuena",
+    "apellido_m": "B."
+  },
+  "102": {
+    "id": 102,
+    "nombre": "Luis Machulas G.",
+    "nombre_1": "Luis",
+    "nombre_2": "Alberto",
+    "apellido_p": "Machulas",
+    "apellido_m": "Gachon"
+  },
+  "105": {
+    "id": 105,
+    "nombre": "Armando Navarrete B.",
+    "nombre_1": "Armando",
+    "nombre_2": "",
+    "apellido_p": "Navarrete",
+    "apellido_m": "Bastias"
+  },
+  "107": {
+    "id": 107,
+    "nombre": "Francisco Saavedra C.",
+    "nombre_1": "Francisco",
+    "nombre_2": "Segundo",
+    "apellido_p": "Saavedra",
+    "apellido_m": "Cifuentes"
+  },
+  "111": {
+    "id": 111,
+    "nombre": "Oscar González G.",
+    "nombre_1": "Oscar",
+    "nombre_2": "",
+    "apellido_p": "González",
+    "apellido_m": "G."
+  },
+  "112": {
+    "id": 112,
+    "nombre": "José Lastra B.",
+    "nombre_1": "José",
+    "nombre_2": "Luis",
+    "apellido_p": "Lastra",
+    "apellido_m": "Bustamante"
+  },
+  "113": {
+    "id": 113,
+    "nombre": "Wilfredo Mancilla D.",
+    "nombre_1": "Wilfredo",
+    "nombre_2": "",
+    "apellido_p": "Mancilla",
+    "apellido_m": "D."
+  },
+  "114": {
+    "id": 114,
+    "nombre": "Jorge Veit S.",
+    "nombre_1": "Jorge",
+    "nombre_2": "",
+    "apellido_p": "Veit",
+    "apellido_m": "S."
+  },
+  "116": {
+    "id": 116,
+    "nombre": "Pedro A. Bagú R.",
+    "nombre_1": "Pedro",
+    "nombre_2": "Alfredo",
+    "apellido_p": "Bagú",
+    "apellido_m": "R."
+  },
+  "117": {
+    "id": 117,
+    "nombre": "Carlos Bagú R.",
+    "nombre_1": "Carlos",
+    "nombre_2": "",
+    "apellido_p": "Bagú",
+    "apellido_m": "R."
+  },
+  "118": {
+    "id": 118,
+    "nombre": "Eduardo Abarca G.",
+    "nombre_1": "Eduardo",
+    "nombre_2": "",
+    "apellido_p": "Abarca",
+    "apellido_m": "G."
+  },
+  "119": {
+    "id": 119,
+    "nombre": "Juan C. Silva S.",
+    "nombre_1": "Juan",
+    "nombre_2": "C.",
+    "apellido_p": "Silva",
+    "apellido_m": "S."
+  },
+  "120": {
+    "id": 120,
+    "nombre": "Ricardo Rojas S.",
+    "nombre_1": "Ricardo",
+    "nombre_2": "",
+    "apellido_p": "Rojas",
+    "apellido_m": "S."
+  },
+  "122": {
+    "id": 122,
+    "nombre": "Rafael Bernal A.",
+    "nombre_1": "Rafael",
+    "nombre_2": "",
+    "apellido_p": "Bernal",
+    "apellido_m": "A."
+  },
+  "123": {
+    "id": 123,
+    "nombre": "Alonso Carreño",
+    "nombre_1": "Alonso",
+    "nombre_2": "",
+    "apellido_p": "Carreño",
+    "apellido_m": ""
+  },
+  "124": {
+    "id": 124,
+    "nombre": "Jorge Inda M.",
+    "nombre_1": "Jorge",
+    "nombre_2": "",
+    "apellido_p": "Inda",
+    "apellido_m": "M."
+  },
+  "125": {
+    "id": 125,
+    "nombre": "Pedro Bagu H.",
+    "nombre_1": "Pedro",
+    "nombre_2": "",
+    "apellido_p": "Bagú",
+    "apellido_m": "H."
+  },
+  "126": {
+    "id": 126,
+    "nombre": "José Ramírez V.",
+    "nombre_1": "José",
+    "nombre_2": "",
+    "apellido_p": "Ramírez",
+    "apellido_m": "V."
+  },
+  "127": {
+    "id": 127,
+    "nombre": "Pedro Medina",
+    "nombre_1": "Pedro",
+    "nombre_2": "",
+    "apellido_p": "Medina",
+    "apellido_m": ""
+  },
+  "128": {
+    "id": 128,
+    "nombre": "José Melero B.",
+    "nombre_1": "José",
+    "nombre_2": "",
+    "apellido_p": "Melero",
+    "apellido_m": "Bécar"
+  },
+  "129": {
+    "id": 129,
+    "nombre": "Pedro Ulloa F.",
+    "nombre_1": "Pedro",
+    "nombre_2": "",
+    "apellido_p": "Ulloa",
+    "apellido_m": "F."
+  },
+  "130": {
+    "id": 130,
+    "nombre": "Jaime Hirmas R.",
+    "nombre_1": "Jaime",
+    "nombre_2": "",
+    "apellido_p": "Hirmas",
+    "apellido_m": "R."
+  },
+  "131": {
+    "id": 131,
+    "nombre": "Patricio López P.",
+    "nombre_1": "Patricio",
+    "nombre_2": "",
+    "apellido_p": "López",
+    "apellido_m": "P."
+  },
+  "132": {
+    "id": 132,
+    "nombre": "Carlos García V.",
+    "nombre_1": "Carlos",
+    "nombre_2": "",
+    "apellido_p": "García",
+    "apellido_m": "V."
+  },
+  "133": {
+    "id": 133,
+    "nombre": "Gabriel Ávila C.",
+    "nombre_1": "Gabriel",
+    "nombre_2": "",
+    "apellido_p": "Ávila",
+    "apellido_m": "C."
+  },
+  "134": {
+    "id": 134,
+    "nombre": "Milton Rodriguez M.",
+    "nombre_1": "Milton",
+    "nombre_2": "",
+    "apellido_p": "Rodriguez",
+    "apellido_m": "M."
+  },
+  "135": {
+    "id": 135,
+    "nombre": "Armando Lab J.",
+    "nombre_1": "Armando",
+    "nombre_2": "",
+    "apellido_p": "Lab",
+    "apellido_m": "J."
+  },
+  "136": {
+    "id": 136,
+    "nombre": "Andrés Silva",
+    "nombre_1": "Andrés",
+    "nombre_2": "",
+    "apellido_p": "Silva",
+    "apellido_m": ""
+  },
+  "137": {
+    "id": 137,
+    "nombre": "Alvaro Fernández L.",
+    "nombre_1": "Alvaro",
+    "nombre_2": "",
+    "apellido_p": "Fernández",
+    "apellido_m": "L."
+  },
+  "138": {
+    "id": 138,
+    "nombre": "Angel Donati I.",
+    "nombre_1": "Angel",
+    "nombre_2": "",
+    "apellido_p": "Donati",
+    "apellido_m": "I."
+  },
+  "139": {
+    "id": 139,
+    "nombre": "Osvaldo Jara A.",
+    "nombre_1": "Osvaldo",
+    "nombre_2": "",
+    "apellido_p": "Jara",
+    "apellido_m": "A."
+  },
+  "140": {
+    "id": 140,
+    "nombre": "Guillermo Aguirre A.",
+    "nombre_1": "Guillermo",
+    "nombre_2": "",
+    "apellido_p": "Aguirre",
+    "apellido_m": "A."
+  },
+  "141": {
+    "id": 141,
+    "nombre": "Javier Conejeros A.",
+    "nombre_1": "Javier",
+    "nombre_2": "",
+    "apellido_p": "Conejeros",
+    "apellido_m": "A."
+  },
+  "142": {
+    "id": 142,
+    "nombre": "Juan B. Castro",
+    "nombre_1": "Juan",
+    "nombre_2": "B.",
+    "apellido_p": "Castro",
+    "apellido_m": ""
+  },
+  "143": {
+    "id": 143,
+    "nombre": "Enrique Acevedo W.",
+    "nombre_1": "Enrique",
+    "nombre_2": "",
+    "apellido_p": "Acevedo",
+    "apellido_m": "W."
+  },
+  "144": {
+    "id": 144,
+    "nombre": "Pedro Molina I.",
+    "nombre_1": "Pedro",
+    "nombre_2": "",
+    "apellido_p": "Molina",
+    "apellido_m": "I."
+  },
+  "145": {
+    "id": 145,
+    "nombre": "Manuel Carrasco T.",
+    "nombre_1": "Manuel",
+    "nombre_2": "",
+    "apellido_p": "Carrasco",
+    "apellido_m": "T."
+  },
+  "146": {
+    "id": 146,
+    "nombre": "Patricio Campos S.",
+    "nombre_1": "Patricio",
+    "nombre_2": "",
+    "apellido_p": "Campos",
+    "apellido_m": "S."
+  },
+  "147": {
+    "id": 147,
+    "nombre": "Daniel Contreras A.",
+    "nombre_1": "Daniel",
+    "nombre_2": "",
+    "apellido_p": "Contreras",
+    "apellido_m": "A."
+  },
+  "148": {
+    "id": 148,
+    "nombre": "Carlos Urbina H.",
+    "nombre_1": "Carlos",
+    "nombre_2": "",
+    "apellido_p": "Urbina",
+    "apellido_m": "H."
+  },
+  "149": {
+    "id": 149,
+    "nombre": "Luis Urbina H.",
+    "nombre_1": "Luis",
+    "nombre_2": "",
+    "apellido_p": "Urbina",
+    "apellido_m": "H."
+  },
+  "150": {
+    "id": 150,
+    "nombre": "Sergio Asenjo T.",
+    "nombre_1": "Sergio",
+    "nombre_2": "",
+    "apellido_p": "Asenjo",
+    "apellido_m": "T."
+  },
+  "151": {
+    "id": 151,
+    "nombre": "Juan Volpe",
+    "nombre_1": "Juan",
+    "nombre_2": "",
+    "apellido_p": "Volpe",
+    "apellido_m": ""
+  },
+  "152": {
+    "id": 152,
+    "nombre": "Roberto Maggi W.",
+    "nombre_1": "Roberto",
+    "nombre_2": "",
+    "apellido_p": "Maggi",
+    "apellido_m": "W."
+  },
+  "153": {
+    "id": 153,
+    "nombre": "Eugenio Switt V.",
+    "nombre_1": "Eugenio",
+    "nombre_2": "",
+    "apellido_p": "Switt",
+    "apellido_m": "V."
+  },
+  "154": {
+    "id": 154,
+    "nombre": "Mario Schaffer E.",
+    "nombre_1": "Mario",
+    "nombre_2": "",
+    "apellido_p": "Schaffer",
+    "apellido_m": "E."
+  },
+  "155": {
+    "id": 155,
+    "nombre": "Rafael Quiroz F.",
+    "nombre_1": "Rafael",
+    "nombre_2": "",
+    "apellido_p": "Quiroz",
+    "apellido_m": "F."
+  },
+  "156": {
+    "id": 156,
+    "nombre": "Carlos Santos E.",
+    "nombre_1": "Carlos",
+    "nombre_2": "",
+    "apellido_p": "Santos",
+    "apellido_m": "E."
+  },
+  "157": {
+    "id": 157,
+    "nombre": "Manuel Segura V.",
+    "nombre_1": "Manuel",
+    "nombre_2": "",
+    "apellido_p": "Segura",
+    "apellido_m": "V."
+  },
+  "158": {
+    "id": 158,
+    "nombre": "Ana M. Santos C.",
+    "nombre_1": "Ana",
+    "nombre_2": "M.",
+    "apellido_p": "Santos",
+    "apellido_m": "C."
+  },
+  "161": {
+    "id": 161,
+    "nombre": "Oscar Martinez R.",
+    "nombre_1": "Oscar",
+    "nombre_2": "",
+    "apellido_p": "Martinez",
+    "apellido_m": "R."
+  },
+  "162": {
+    "id": 162,
+    "nombre": "Alejandro Martinez L.",
+    "nombre_1": "Alejandro",
+    "nombre_2": "",
+    "apellido_p": "Martinez",
+    "apellido_m": "L."
+  },
+  "163": {
+    "id": 163,
+    "nombre": "Francisco Castro C.",
+    "nombre_1": "Francisco",
+    "nombre_2": "",
+    "apellido_p": "Castro",
+    "apellido_m": "C."
+  },
+  "164": {
+    "id": 164,
+    "nombre": "Guillermo Romero C.",
+    "nombre_1": "Guillermo",
+    "nombre_2": "",
+    "apellido_p": "Romero",
+    "apellido_m": "C."
+  },
+  "166": {
+    "id": 166,
+    "nombre": "Juan Musri H.",
+    "nombre_1": "Juan",
+    "nombre_2": "",
+    "apellido_p": "Musri",
+    "apellido_m": "H."
+  },
+  "167": {
+    "id": 167,
+    "nombre": "Alvaro Breque",
+    "nombre_1": "Alvaro",
+    "nombre_2": "",
+    "apellido_p": "Breque",
+    "apellido_m": ""
+  },
+  "168": {
+    "id": 168,
+    "nombre": "Oscar Bagú P.",
+    "nombre_1": "Oscar",
+    "nombre_2": "",
+    "apellido_p": "Bagú",
+    "apellido_m": "P."
+  },
+  "169": {
+    "id": 169,
+    "nombre": "Hernán González R.",
+    "nombre_1": "Hernán",
+    "nombre_2": "",
+    "apellido_p": "González",
+    "apellido_m": "R."
+  },
+  "170": {
+    "id": 170,
+    "nombre": "Luis A. Díaz C.",
+    "nombre_1": "Luis",
+    "nombre_2": "A.",
+    "apellido_p": "Díaz",
+    "apellido_m": "C."
+  },
+  "171": {
+    "id": 171,
+    "nombre": "Mauricio Farías",
+    "nombre_1": "Mauricio",
+    "nombre_2": "",
+    "apellido_p": "Farías",
+    "apellido_m": ""
+  },
+  "172": {
+    "id": 172,
+    "nombre": "Hernán Facuse",
+    "nombre_1": "Hernán",
+    "nombre_2": "",
+    "apellido_p": "Facuse",
+    "apellido_m": ""
+  },
+  "174": {
+    "id": 174,
+    "nombre": "Miguel Maureira E.",
+    "nombre_1": "Miguel",
+    "nombre_2": "Antonio",
+    "apellido_p": "Maureira",
+    "apellido_m": "Escribano"
+  },
+  "175": {
+    "id": 175,
+    "nombre": "Juan Castro L.",
+    "nombre_1": "Juan",
+    "nombre_2": "",
+    "apellido_p": "Castro",
+    "apellido_m": "L."
+  },
+  "177": {
+    "id": 177,
+    "nombre": "Juan Silva G.",
+    "nombre_1": "Juan",
+    "nombre_2": "",
+    "apellido_p": "Silva",
+    "apellido_m": "G."
+  },
+  "178": {
+    "id": 178,
+    "nombre": "Hermin Yañez D.",
+    "nombre_1": "Hermin",
+    "nombre_2": "",
+    "apellido_p": "Yañez",
+    "apellido_m": "D."
+  },
+  "179": {
+    "id": 179,
+    "nombre": "José Nicoli",
+    "nombre_1": "José",
+    "nombre_2": "",
+    "apellido_p": "Nicoli",
+    "apellido_m": ""
+  },
+  "180": {
+    "id": 180,
+    "nombre": "Enrique Lagunas R.",
+    "nombre_1": "Enrique",
+    "nombre_2": "",
+    "apellido_p": "Lagunas",
+    "apellido_m": "R."
+  },
+  "182": {
+    "id": 182,
+    "nombre": "Cristian López B.",
+    "nombre_1": "Cristian",
+    "nombre_2": "",
+    "apellido_p": "López",
+    "apellido_m": "B."
+  },
+  "183": {
+    "id": 183,
+    "nombre": "Aquiles Martinez",
+    "nombre_1": "Aquiles",
+    "nombre_2": "",
+    "apellido_p": "Martínez",
+    "apellido_m": ""
+  },
+  "185": {
+    "id": 185,
+    "nombre": "Jorge Inda G.",
+    "nombre_1": "Jorge",
+    "nombre_2": "",
+    "apellido_p": "Inda",
+    "apellido_m": "G."
+  },
+  "186": {
+    "id": 186,
+    "nombre": "Julio Romero C.",
+    "nombre_1": "Julio",
+    "nombre_2": "",
+    "apellido_p": "Romero",
+    "apellido_m": "C."
+  },
+  "187": {
+    "id": 187,
+    "nombre": "Leonidas Brito",
+    "nombre_1": "Leonidas",
+    "nombre_2": "",
+    "apellido_p": "Brito",
+    "apellido_m": ""
+  },
+  "188": {
+    "id": 188,
+    "nombre": "Gabriel Reyes I.",
+    "nombre_1": "Gabriel",
+    "nombre_2": "",
+    "apellido_p": "Reyes",
+    "apellido_m": "I."
+  },
+  "189": {
+    "id": 189,
+    "nombre": "Héctor Castillo S.",
+    "nombre_1": "Héctor",
+    "nombre_2": "",
+    "apellido_p": "Castillo",
+    "apellido_m": "S."
+  },
+  "190": {
+    "id": 190,
+    "nombre": "Miguel Carrasco T.",
+    "nombre_1": "Miguel",
+    "nombre_2": "",
+    "apellido_p": "Carrasco",
+    "apellido_m": "T."
+  },
+  "191": {
+    "id": 191,
+    "nombre": "Rodrigo Pulgar A.",
+    "nombre_1": "Rodrigo",
+    "nombre_2": "",
+    "apellido_p": "Pulgar",
+    "apellido_m": "A."
+  },
+  "192": {
+    "id": 192,
+    "nombre": "Robinson Chacón C.",
+    "nombre_1": "Robinson",
+    "nombre_2": "",
+    "apellido_p": "Chacón",
+    "apellido_m": "C."
+  },
+  "194": {
+    "id": 194,
+    "nombre": "Fredy D. Hidalgo F.",
+    "nombre_1": "Fredy",
+    "nombre_2": "Daniel",
+    "apellido_p": "Hidalgo",
+    "apellido_m": "Flores"
+  },
+  "196": {
+    "id": 196,
+    "nombre": "Sergio Romero R.",
+    "nombre_1": "Sergio",
+    "nombre_2": "",
+    "apellido_p": "Romero",
+    "apellido_m": "R."
+  },
+  "205": {
+    "id": 205,
+    "nombre": "Felix Banda",
+    "nombre_1": "Felix",
+    "nombre_2": "",
+    "apellido_p": "Banda",
+    "apellido_m": ""
+  },
+  "206": {
+    "id": 206,
+    "nombre": "Roberto Pellegatta",
+    "nombre_1": "Roberto",
+    "nombre_2": "",
+    "apellido_p": "Pellegatta",
+    "apellido_m": ""
+  },
+  "207": {
+    "id": 207,
+    "nombre": "Hugo Sanagua",
+    "nombre_1": "Hugo",
+    "nombre_2": "",
+    "apellido_p": "Sanagua",
+    "apellido_m": ""
+  },
+  "208": {
+    "id": 208,
+    "nombre": "Manuel González",
+    "nombre_1": "Manuel",
+    "nombre_2": "",
+    "apellido_p": "González",
+    "apellido_m": ""
+  },
+  "209": {
+    "id": 209,
+    "nombre": "Hayne González",
+    "nombre_1": "Hayne",
+    "nombre_2": "",
+    "apellido_p": "González",
+    "apellido_m": ""
+  },
+  "210": {
+    "id": 210,
+    "nombre": "Facundo Bunge",
+    "nombre_1": "Facundo",
+    "nombre_2": "",
+    "apellido_p": "Bunge",
+    "apellido_m": ""
+  },
+  "211": {
+    "id": 211,
+    "nombre": "Pedro Nickel",
+    "nombre_1": "Pedro",
+    "nombre_2": "",
+    "apellido_p": "Nickel",
+    "apellido_m": ""
+  },
+  "212": {
+    "id": 212,
+    "nombre": "Pablo Blanco",
+    "nombre_1": "Pablo",
+    "nombre_2": "",
+    "apellido_p": "Blanco",
+    "apellido_m": ""
+  },
+  "214": {
+    "id": 214,
+    "nombre": "Jorge Mege S.",
+    "nombre_1": "Jorge",
+    "nombre_2": "",
+    "apellido_p": "Mege",
+    "apellido_m": "S."
+  },
+  "215": {
+    "id": 215,
+    "nombre": "Jorge Araneda M.",
+    "nombre_1": "Jorge",
+    "nombre_2": "",
+    "apellido_p": "Araneda",
+    "apellido_m": "M."
+  },
+  "218": {
+    "id": 218,
+    "nombre": "Antonio Bullezú H.",
+    "nombre_1": "Antonio",
+    "nombre_2": "",
+    "apellido_p": "Bullezú",
+    "apellido_m": "H."
+  },
+  "219": {
+    "id": 219,
+    "nombre": "Mofid Hadweh",
+    "nombre_1": "Mofid",
+    "nombre_2": "",
+    "apellido_p": "Hadweh",
+    "apellido_m": ""
+  },
+  "220": {
+    "id": 220,
+    "nombre": "Genaro J. Covarrubias E.",
+    "nombre_1": "Genaro",
+    "nombre_2": "John",
+    "apellido_p": "Covarrubias",
+    "apellido_m": "Escobar"
+  },
+  "222": {
+    "id": 222,
+    "nombre": "Claudio Bernal G.",
+    "nombre_1": "Claudio",
+    "nombre_2": "",
+    "apellido_p": "Bernal",
+    "apellido_m": "G."
+  },
+  "224": {
+    "id": 224,
+    "nombre": "José Alvarez D.",
+    "nombre_1": "José",
+    "nombre_2": "",
+    "apellido_p": "Alvarez",
+    "apellido_m": "D."
+  },
+  "225": {
+    "id": 225,
+    "nombre": "Rodrigo Urenda M.",
+    "nombre_1": "Rodrigo",
+    "nombre_2": "",
+    "apellido_p": "Urenda",
+    "apellido_m": "M."
+  },
+  "227": {
+    "id": 227,
+    "nombre": "Alfonso Zamorano B.",
+    "nombre_1": "Alfonso",
+    "nombre_2": "Javier",
+    "apellido_p": "Zamorano",
+    "apellido_m": "Bascuñan"
+  },
+  "228": {
+    "id": 228,
+    "nombre": "Guillermo Pérez C.",
+    "nombre_1": "Guillermo",
+    "nombre_2": "",
+    "apellido_p": "Pérez",
+    "apellido_m": "C."
+  },
+  "229": {
+    "id": 229,
+    "nombre": "Alejandro Valdes J.",
+    "nombre_1": "Alejandro",
+    "nombre_2": "",
+    "apellido_p": "Valdes",
+    "apellido_m": "J."
+  },
+  "230": {
+    "id": 230,
+    "nombre": "Claudio Romero A.",
+    "nombre_1": "Claudio",
+    "nombre_2": "",
+    "apellido_p": "Romero",
+    "apellido_m": "A."
+  },
+  "231": {
+    "id": 231,
+    "nombre": "Héctor Farías B.",
+    "nombre_1": "Héctor",
+    "nombre_2": "",
+    "apellido_p": "Farías",
+    "apellido_m": "B."
+  },
+  "232": {
+    "id": 232,
+    "nombre": "Patricio González D.",
+    "nombre_1": "Patricio",
+    "nombre_2": "",
+    "apellido_p": "González",
+    "apellido_m": "D."
+  },
+  "234": {
+    "id": 234,
+    "nombre": "Cristian Quiroz E.",
+    "nombre_1": "Cristian",
+    "nombre_2": "",
+    "apellido_p": "Quiroz",
+    "apellido_m": "E."
+  },
+  "235": {
+    "id": 235,
+    "nombre": "José Venegas P.",
+    "nombre_1": "José",
+    "nombre_2": "",
+    "apellido_p": "Venegas",
+    "apellido_m": "P."
+  },
+  "244": {
+    "id": 244,
+    "nombre": "Carlos Conejeros A.",
+    "nombre_1": "Carlos",
+    "nombre_2": "Oscar",
+    "apellido_p": "Conejeros",
+    "apellido_m": "Aitken"
+  },
+  "245": {
+    "id": 245,
+    "nombre": "Juan Aravena M.",
+    "nombre_1": "Juan",
+    "nombre_2": "",
+    "apellido_p": "Aravena",
+    "apellido_m": "M."
+  },
+  "246": {
+    "id": 246,
+    "nombre": "Juan Castro C.",
+    "nombre_1": "Juan",
+    "nombre_2": "",
+    "apellido_p": "Castro",
+    "apellido_m": "C."
+  },
+  "247": {
+    "id": 247,
+    "nombre": "Leonardo D. Arellano H.",
+    "nombre_1": "Leonardo",
+    "nombre_2": "David",
+    "apellido_p": "Arellano",
+    "apellido_m": "Haselin"
+  },
+  "250": {
+    "id": 250,
+    "nombre": "Carlos Miranda B.",
+    "nombre_1": "Carlos",
+    "nombre_2": "",
+    "apellido_p": "Miranda",
+    "apellido_m": "B."
+  },
+  "252": {
+    "id": 252,
+    "nombre": "Seferino Lerma A.",
+    "nombre_1": "Seferino",
+    "nombre_2": "",
+    "apellido_p": "Lerma",
+    "apellido_m": "A."
+  },
+  "253": {
+    "id": 253,
+    "nombre": "Rafael Bernal T.",
+    "nombre_1": "Rafael",
+    "nombre_2": "",
+    "apellido_p": "Bernal",
+    "apellido_m": "Torres"
+  },
+  "254": {
+    "id": 254,
+    "nombre": "Oscar Donate S.",
+    "nombre_1": "Oscar",
+    "nombre_2": "",
+    "apellido_p": "Donate",
+    "apellido_m": "S."
+  },
+  "255": {
+    "id": 255,
+    "nombre": "Marco Pavez O.",
+    "nombre_1": "Marco",
+    "nombre_2": "Antonio",
+    "apellido_p": "Pavez",
+    "apellido_m": "Ochoa"
+  },
+  "257": {
+    "id": 257,
+    "nombre": "Luis Ramírez F.",
+    "nombre_1": "Luis",
+    "nombre_2": "",
+    "apellido_p": "Ramírez",
+    "apellido_m": "F."
+  },
+  "325": {
+    "id": 325,
+    "nombre": "Manuel Norambuena Ch.",
+    "nombre_1": "Manuel",
+    "nombre_2": "",
+    "apellido_p": "Norambuena",
+    "apellido_m": "Ch."
+  },
+  "336": {
+    "id": 336,
+    "nombre": "Ximeno Urenda P.",
+    "nombre_1": "Ximeno",
+    "nombre_2": "Francisco",
+    "apellido_p": "Urenda",
+    "apellido_m": "Pastene"
+  },
+  "447": {
+    "id": 447,
+    "nombre": "Manuel Antonio Mancilla Osses",
+    "nombre_1": "Manuel",
+    "nombre_2": "Antonio",
+    "apellido_p": "Mancilla",
+    "apellido_m": "Osses"
+  },
+  "524": {
+    "id": 524,
+    "nombre": "Carlos D. Etchechoury",
+    "nombre_1": "Carlos",
+    "nombre_2": "Daniel",
+    "apellido_p": "Etchechoury",
+    "apellido_m": ""
+  },
+  "1492": {
+    "id": 1492,
+    "nombre": "Nestor Ruben Gaitán",
+    "nombre_1": "Nestor",
+    "nombre_2": "Ruben",
+    "apellido_p": "Gaitán",
+    "apellido_m": ""
+  },
+  "2135": {
+    "id": 2135,
+    "nombre": "Juan Pablo Baeza J.",
+    "nombre_1": "Juan",
+    "nombre_2": "P.",
+    "apellido_p": "Baeza",
+    "apellido_m": "J."
+  },
+  "2138": {
+    "id": 2138,
+    "nombre": "Carlos Melero F.",
+    "nombre_1": "Carlos",
+    "nombre_2": "enrique",
+    "apellido_p": "Melero",
+    "apellido_m": "Fuentes"
+  },
+  "2139": {
+    "id": 2139,
+    "nombre": "Luis Salinas T.",
+    "nombre_1": "Luis",
+    "nombre_2": "Eduardo",
+    "apellido_p": "Salinas",
+    "apellido_m": "Trigo"
+  },
+  "2872": {
+    "id": 2872,
+    "nombre": "Franklin Martin L.",
+    "nombre_1": "Franklin",
+    "nombre_2": "",
+    "apellido_p": "Martin",
+    "apellido_m": "L."
+  },
+  "2887": {
+    "id": 2887,
+    "nombre": "Alejandro Martínez C.",
+    "nombre_1": "Alejandro",
+    "nombre_2": "",
+    "apellido_p": "Martínez",
+    "apellido_m": "C."
+  },
+  "2892": {
+    "id": 2892,
+    "nombre": "Harrison Adonis B.",
+    "nombre_1": "Harrison",
+    "nombre_2": "",
+    "apellido_p": "Adonis",
+    "apellido_m": "B."
+  },
+  "2893": {
+    "id": 2893,
+    "nombre": "N. Araya N.",
+    "nombre_1": "N.",
+    "nombre_2": "",
+    "apellido_p": "Araya",
+    "apellido_m": "N."
+  },
+  "2961": {
+    "id": 2961,
+    "nombre": "Manuel Bain",
+    "nombre_1": "Manuel",
+    "nombre_2": "",
+    "apellido_p": "Bain",
+    "apellido_m": ""
+  },
+  "3169": {
+    "id": 3169,
+    "nombre": "Aldo Parra D.",
+    "nombre_1": "Aldo",
+    "nombre_2": "Rodolfo",
+    "apellido_p": "Parra",
+    "apellido_m": "Dandrea"
+  },
+  "3415": {
+    "id": 3415,
+    "nombre": "Joao Castillo L.",
+    "nombre_1": "Joao",
+    "nombre_2": "",
+    "apellido_p": "Castillo",
+    "apellido_m": "L."
+  },
+  "3495": {
+    "id": 3495,
+    "nombre": "Osman Rodriguez C.",
+    "nombre_1": "Osman",
+    "nombre_2": "",
+    "apellido_p": "Rodriguez",
+    "apellido_m": "C."
+  },
+  "3533": {
+    "id": 3533,
+    "nombre": "Sergio Tapia S.",
+    "nombre_1": "Sergio",
+    "nombre_2": "",
+    "apellido_p": "Tapia",
+    "apellido_m": "Serey"
+  },
+  "3592": {
+    "id": 3592,
+    "nombre": "Aldo Castagneto U.",
+    "nombre_1": "Aldo",
+    "nombre_2": "",
+    "apellido_p": "Castagneto",
+    "apellido_m": "Urbina"
+  },
+  "3659": {
+    "id": 3659,
+    "nombre": "G. Duarte",
+    "nombre_1": "G.",
+    "nombre_2": "",
+    "apellido_p": "Duarte",
+    "apellido_m": ""
+  },
+  "3704": {
+    "id": 3704,
+    "nombre": "Mario Covarrubias",
+    "nombre_1": "Mario",
+    "nombre_2": "",
+    "apellido_p": "Covarrubias",
+    "apellido_m": ""
+  },
+  "3711": {
+    "id": 3711,
+    "nombre": "Nelson R. Biava E.",
+    "nombre_1": "Nelson",
+    "nombre_2": "Raúl",
+    "apellido_p": "Biava",
+    "apellido_m": "Escobar"
+  },
+  "3719": {
+    "id": 3719,
+    "nombre": "Jonathan Azocar G.",
+    "nombre_1": "Jonathan",
+    "nombre_2": "",
+    "apellido_p": "Azocar",
+    "apellido_m": "G."
+  },
+  "3783": {
+    "id": 3783,
+    "nombre": "Braulio Gómez A.",
+    "nombre_1": "Braulio",
+    "nombre_2": "Santiago",
+    "apellido_p": "Gómez",
+    "apellido_m": "Aavila"
+  },
+  "3790": {
+    "id": 3790,
+    "nombre": "Ricardo A. Chellew S.",
+    "nombre_1": "Ricardo",
+    "nombre_2": "Agustín",
+    "apellido_p": "Chellew",
+    "apellido_m": "Schroder"
+  },
+  "3817": {
+    "id": 3817,
+    "nombre": "S. Morales E.",
+    "nombre_1": "S.",
+    "nombre_2": "",
+    "apellido_p": "Morales",
+    "apellido_m": "E."
+  },
+  "3972": {
+    "id": 3972,
+    "nombre": "Jorge Salas V.",
+    "nombre_1": "Jorge",
+    "nombre_2": "",
+    "apellido_p": "Salas",
+    "apellido_m": "V."
+  },
+  "3986": {
+    "id": 3986,
+    "nombre": "Sergio Morales G.",
+    "nombre_1": "Sergio",
+    "nombre_2": "Eduardo",
+    "apellido_p": "Morales",
+    "apellido_m": "Galleguillos"
+  },
+  "4055": {
+    "id": 4055,
+    "nombre": "Hernán Pacheco P.",
+    "nombre_1": "Hernán",
+    "nombre_2": "",
+    "apellido_p": "Pacheco",
+    "apellido_m": "Poblete"
+  },
+  "4110": {
+    "id": 4110,
+    "nombre": "Rodrigo Viejo S.",
+    "nombre_1": "Rodrigo",
+    "nombre_2": "Alberto",
+    "apellido_p": "Viejo",
+    "apellido_m": "Scholz"
+  },
+  "4172": {
+    "id": 4172,
+    "nombre": "Juan Suárez V.",
+    "nombre_1": "Juan",
+    "nombre_2": "",
+    "apellido_p": "Suárez",
+    "apellido_m": "V."
+  },
+  "4174": {
+    "id": 4174,
+    "nombre": "Gmo. Frenkel S.",
+    "nombre_1": "Gmo.",
+    "nombre_2": "",
+    "apellido_p": "Frenkel",
+    "apellido_m": "S."
+  },
+  "4178": {
+    "id": 4178,
+    "nombre": "S. García D.",
+    "nombre_1": "S",
+    "nombre_2": "",
+    "apellido_p": "Garcia",
+    "apellido_m": "D."
+  },
+  "4180": {
+    "id": 4180,
+    "nombre": "Guignoni D.",
+    "nombre_1": "Guignoni",
+    "nombre_2": "",
+    "apellido_p": "D.",
+    "apellido_m": ""
+  },
+  "4269": {
+    "id": 4269,
+    "nombre": "Héctor Lastra C.",
+    "nombre_1": "Héctor",
+    "nombre_2": "",
+    "apellido_p": "Lastra",
+    "apellido_m": "C."
+  },
+  "4280": {
+    "id": 4280,
+    "nombre": "Pedro Polanco G.",
+    "nombre_1": "Pedro",
+    "nombre_2": "",
+    "apellido_p": "Polanco",
+    "apellido_m": "G."
+  },
+  "4291": {
+    "id": 4291,
+    "nombre": "Raúl Montesino S.",
+    "nombre_1": "Raúl",
+    "nombre_2": "Andrés",
+    "apellido_p": "Montesino",
+    "apellido_m": "Serrano"
+  },
+  "4292": {
+    "id": 4292,
+    "nombre": "Alexis Pérez D.",
+    "nombre_1": "Alexis",
+    "nombre_2": "Ramón",
+    "apellido_p": "Pérez",
+    "apellido_m": "Duarte"
+  },
+  "4339": {
+    "id": 4339,
+    "nombre": "Emilio Padovani E.",
+    "nombre_1": "Washington",
+    "nombre_2": "Emilio",
+    "apellido_p": "Padovani",
+    "apellido_m": "Estay"
+  },
+  "4417": {
+    "id": 4417,
+    "nombre": "Héctor Manríquez F.",
+    "nombre_1": "Héctor",
+    "nombre_2": "",
+    "apellido_p": "Manríquez",
+    "apellido_m": "F."
+  },
+  "4440": {
+    "id": 4440,
+    "nombre": "Michele Canale D.",
+    "nombre_1": "Michele",
+    "nombre_2": "",
+    "apellido_p": "Canale",
+    "apellido_m": "D."
+  },
+  "4443": {
+    "id": 4443,
+    "nombre": "Félix Sepúlveda E.",
+    "nombre_1": "Félix",
+    "nombre_2": "",
+    "apellido_p": "Sepúlveda",
+    "apellido_m": "E."
+  },
+  "4486": {
+    "id": 4486,
+    "nombre": "Lauro Pérez A.",
+    "nombre_1": "Lauro",
+    "nombre_2": "Heriberto",
+    "apellido_p": "Pérez",
+    "apellido_m": "Aros"
+  },
+  "4596": {
+    "id": 4596,
+    "nombre": "Felipe Gonzalez S.",
+    "nombre_1": "Felipe",
+    "nombre_2": ".",
+    "apellido_p": "Gonzalez",
+    "apellido_m": "Sobarzo"
+  },
+  "4623": {
+    "id": 4623,
+    "nombre": "Pintos J. Da Luz.",
+    "nombre_1": "Pintos",
+    "nombre_2": "",
+    "apellido_p": "J. Da Luz.",
+    "apellido_m": ""
+  },
+  "4637": {
+    "id": 4637,
+    "nombre": "Rodrigo Sánchez Q.",
+    "nombre_1": "Rodrigo ",
+    "nombre_2": "",
+    "apellido_p": "Sánchez",
+    "apellido_m": "Q."
+  },
+  "4638": {
+    "id": 4638,
+    "nombre": "Juan González A.",
+    "nombre_1": "Juan",
+    "nombre_2": "",
+    "apellido_p": "González ",
+    "apellido_m": "Arredondo"
+  },
+  "4639": {
+    "id": 4639,
+    "nombre": "Juan R. García V.",
+    "nombre_1": "Juan",
+    "nombre_2": "Roberto",
+    "apellido_p": "García",
+    "apellido_m": "Vergara"
+  },
+  "4640": {
+    "id": 4640,
+    "nombre": "Marcos Haering E.",
+    "nombre_1": "Marcos",
+    "nombre_2": "Antonio",
+    "apellido_p": "Haering",
+    "apellido_m": "Espinoza"
+  },
+  "4644": {
+    "id": 4644,
+    "nombre": "José Quiroga O.",
+    "nombre_1": "José",
+    "nombre_2": "",
+    "apellido_p": "Quiroga",
+    "apellido_m": "O."
+  },
+  "4796": {
+    "id": 4796,
+    "nombre": "Rodrigo Silva. S.",
+    "nombre_1": "Rodrigo",
+    "nombre_2": "",
+    "apellido_p": "Silva",
+    "apellido_m": "S."
+  },
+  "4797": {
+    "id": 4797,
+    "nombre": "Sebastian Silva S.",
+    "nombre_1": "Sebastian",
+    "nombre_2": "",
+    "apellido_p": "Silva",
+    "apellido_m": "S."
+  },
+  "4834": {
+    "id": 4834,
+    "nombre": "C. Pereira G.",
+    "nombre_1": "C.",
+    "nombre_2": "",
+    "apellido_p": "Pereira",
+    "apellido_m": "G."
+  },
+  "4848": {
+    "id": 4848,
+    "nombre": "Jorge Andrés Inda D.",
+    "nombre_1": "Jorge",
+    "nombre_2": "A.",
+    "apellido_p": "Inda",
+    "apellido_m": "D."
+  },
+  "4864": {
+    "id": 4864,
+    "nombre": "Juan Ubilla P.",
+    "nombre_1": "Juan",
+    "nombre_2": "",
+    "apellido_p": "Ubilla",
+    "apellido_m": "P."
+  },
+  "4930": {
+    "id": 4930,
+    "nombre": "Cristián Urbina R.",
+    "nombre_1": "Cristián",
+    "nombre_2": "",
+    "apellido_p": "Urbina",
+    "apellido_m": "R."
+  },
+  "4935": {
+    "id": 4935,
+    "nombre": "Nelson Espina",
+    "nombre_1": "Nelson",
+    "nombre_2": "",
+    "apellido_p": "Espina",
+    "apellido_m": ""
+  },
+  "5012": {
+    "id": 5012,
+    "nombre": "Joan Amaya H.",
+    "nombre_1": "Joan",
+    "nombre_2": "",
+    "apellido_p": "Amaya",
+    "apellido_m": "H."
+  },
+  "5055": {
+    "id": 5055,
+    "nombre": "Héctor Urrea P.",
+    "nombre_1": "Héctor ",
+    "nombre_2": "",
+    "apellido_p": "Urrea",
+    "apellido_m": "P."
+  },
+  "5056": {
+    "id": 5056,
+    "nombre": "Isaac Michea F.",
+    "nombre_1": "Isaac",
+    "nombre_2": "",
+    "apellido_p": "Michea",
+    "apellido_m": "F."
+  },
+  "5077": {
+    "id": 5077,
+    "nombre": "Eduardo Lab R.",
+    "nombre_1": "Eduardo",
+    "nombre_2": "",
+    "apellido_p": "Lab",
+    "apellido_m": "R."
+  },
+  "5164": {
+    "id": 5164,
+    "nombre": "Eduardo Donoso",
+    "nombre_1": "Eduardo",
+    "nombre_2": "",
+    "apellido_p": "Donoso",
+    "apellido_m": ""
+  },
+  "5181": {
+    "id": 5181,
+    "nombre": "Claudio Catalan",
+    "nombre_1": "Claudio",
+    "nombre_2": "",
+    "apellido_p": "Catalan",
+    "apellido_m": ""
+  },
+  "5271": {
+    "id": 5271,
+    "nombre": "Oscar Silva G.",
+    "nombre_1": "Oscar",
+    "nombre_2": "E.",
+    "apellido_p": "Silva",
+    "apellido_m": "G."
+  },
+  "5297": {
+    "id": 5297,
+    "nombre": "Claudio Navarro A.",
+    "nombre_1": "Claudio",
+    "nombre_2": "",
+    "apellido_p": "Navarro",
+    "apellido_m": "A."
+  },
+  "5342": {
+    "id": 5342,
+    "nombre": "Mario A. Apablaza G.",
+    "nombre_1": "Mario",
+    "nombre_2": "Albano",
+    "apellido_p": "Apablaza",
+    "apellido_m": "Gavilán"
+  },
+  "5424": {
+    "id": 5424,
+    "nombre": "Abelino Parra D.",
+    "nombre_1": "Abelino",
+    "nombre_2": "",
+    "apellido_p": "Parra",
+    "apellido_m": "Díaz"
+  },
+  "5452": {
+    "id": 5452,
+    "nombre": "Juan Rodriguez E.",
+    "nombre_1": "Juan",
+    "nombre_2": "",
+    "apellido_p": "Rodríguez",
+    "apellido_m": "E."
+  },
+  "5521": {
+    "id": 5521,
+    "nombre": "Gonzalo Vegas C.",
+    "nombre_1": "Gonzalo",
+    "nombre_2": "",
+    "apellido_p": "Vegas",
+    "apellido_m": "C."
+  },
+  "5565": {
+    "id": 5565,
+    "nombre": "Amador Sánchez Q.",
+    "nombre_1": "Amador",
+    "nombre_2": "",
+    "apellido_p": "Sánchez",
+    "apellido_m": "Quinteros"
+  },
+  "5598": {
+    "id": 5598,
+    "nombre": "Luis Muñoz S.",
+    "nombre_1": "Luis",
+    "nombre_2": "",
+    "apellido_p": "Muñoz",
+    "apellido_m": "S."
+  },
+  "5773": {
+    "id": 5773,
+    "nombre": "Alejandro M. Padovani F.",
+    "nombre_1": "Alejandro",
+    "nombre_2": "M.",
+    "apellido_p": "Padovani",
+    "apellido_m": "F."
+  },
+  "5870": {
+    "id": 5870,
+    "nombre": "Julio Silva B.",
+    "nombre_1": "Julio",
+    "nombre_2": "",
+    "apellido_p": "Silva",
+    "apellido_m": "B."
+  },
+  "5875": {
+    "id": 5875,
+    "nombre": "Jorge González M.",
+    "nombre_1": "Jorge",
+    "nombre_2": "",
+    "apellido_p": "González",
+    "apellido_m": "Morales"
+  },
+  "5877": {
+    "id": 5877,
+    "nombre": "Ivo Urrejola Z.",
+    "nombre_1": "Ivo",
+    "nombre_2": "",
+    "apellido_p": "Urrejola",
+    "apellido_m": "Z."
+  },
+  "6348": {
+    "id": 6348,
+    "nombre": "Manuel Serrano C.",
+    "nombre_1": "Manuel",
+    "nombre_2": "",
+    "apellido_p": "Serrano",
+    "apellido_m": "Cruz"
+  },
+  "7178": {
+    "id": 7178,
+    "nombre": "Fernando A. Zamorano",
+    "nombre_1": "Fernando",
+    "nombre_2": "Alfredo",
+    "apellido_p": "Zamorano",
+    "apellido_m": "Fernández"
+  },
+  "7452": {
+    "id": 7452,
+    "nombre": "Luis Leal J.",
+    "nombre_1": "Luis",
+    "nombre_2": "Nelson",
+    "apellido_p": "Leal",
+    "apellido_m": "Jara"
+  },
+  "7692": {
+    "id": 7692,
+    "nombre": "Hernán E. Ulloa P.",
+    "nombre_1": "Hernán",
+    "nombre_2": "E.",
+    "apellido_p": "Ulloa",
+    "apellido_m": "P."
+  },
+  "7705": {
+    "id": 7705,
+    "nombre": "Anibal Norambuena",
+    "nombre_1": "Anibal",
+    "nombre_2": "",
+    "apellido_p": "Norambuena",
+    "apellido_m": ""
+  },
+  "7742": {
+    "id": 7742,
+    "nombre": "A. Arias",
+    "nombre_1": "A.",
+    "nombre_2": "",
+    "apellido_p": "Arias",
+    "apellido_m": ""
+  },
+  "7847": {
+    "id": 7847,
+    "nombre": "Hugo Cabrera M.",
+    "nombre_1": "Hugo",
+    "nombre_2": "",
+    "apellido_p": "Cabrera",
+    "apellido_m": "M."
+  },
+  "7859": {
+    "id": 7859,
+    "nombre": "Victor Ulloa G.",
+    "nombre_1": "Victor",
+    "nombre_2": "",
+    "apellido_p": "Ulloa ",
+    "apellido_m": "G."
+  },
+  "7860": {
+    "id": 7860,
+    "nombre": "Alberto Ferrero R.",
+    "nombre_1": "Alberto",
+    "nombre_2": "",
+    "apellido_p": "Ferrero",
+    "apellido_m": "R."
+  },
+  "7871": {
+    "id": 7871,
+    "nombre": "Rodrigo Quiroz S.",
+    "nombre_1": "Rodrigo",
+    "nombre_2": "",
+    "apellido_p": "Quiroz",
+    "apellido_m": "S."
+  },
+  "7872": {
+    "id": 7872,
+    "nombre": "Luis Apablaza G.",
+    "nombre_1": "Luis",
+    "nombre_2": "",
+    "apellido_p": "Apablaza",
+    "apellido_m": "G."
+  },
+  "11609": {
+    "id": 11609,
+    "nombre": "Galindo Rojas S.",
+    "nombre_1": "Galindo",
+    "nombre_2": "",
+    "apellido_p": "Rojas",
+    "apellido_m": "S."
+  },
+  "13173": {
+    "id": 13173,
+    "nombre": "Rodrigo Muñoz M.",
+    "nombre_1": "Rodrigo",
+    "nombre_2": "",
+    "apellido_p": "Muñoz ",
+    "apellido_m": "M."
+  },
+  "13174": {
+    "id": 13174,
+    "nombre": "Pablo Trucco B.",
+    "nombre_1": "Pablo",
+    "nombre_2": "",
+    "apellido_p": "Trucco",
+    "apellido_m": "B."
+  },
+  "13995": {
+    "id": 13995,
+    "nombre": "Ivan Gonzalez B.",
+    "nombre_1": "Ivan",
+    "nombre_2": "",
+    "apellido_p": "Gonzalez ",
+    "apellido_m": "B."
+  },
+  "16784": {
+    "id": 16784,
+    "nombre": "Raul Bobadilla R.",
+    "nombre_1": "Raúl",
+    "nombre_2": "",
+    "apellido_p": "Bobadilla",
+    "apellido_m": "R."
+  },
+  "16984": {
+    "id": 16984,
+    "nombre": "Daniel Valdebenito M.",
+    "nombre_1": "Daniel",
+    "nombre_2": "",
+    "apellido_p": "Valdebenito",
+    "apellido_m": "M."
+  },
+  "17144": {
+    "id": 17144,
+    "nombre": "Manuel Sanchez F.",
+    "nombre_1": "Manuel",
+    "nombre_2": "",
+    "apellido_p": "Sanchez",
+    "apellido_m": "F."
+  },
+  "17466": {
+    "id": 17466,
+    "nombre": "Roberto Toledo M",
+    "nombre_1": "Roberto Toledo M",
+    "nombre_2": "Roberto Toledo M",
+    "apellido_p": "Roberto Toledo M",
+    "apellido_m": "Roberto Toledo M"
+  },
+  "29393": {
+    "id": 29393,
+    "nombre": "Mario Retamal J.",
+    "nombre_1": "Mario",
+    "nombre_2": "",
+    "apellido_p": "Retamal J.",
+    "apellido_m": "M. Retamal J."
+  },
+  "29449": {
+    "id": 29449,
+    "nombre": "Jaime Órdenes T.",
+    "nombre_1": "Jaime",
+    "nombre_2": "",
+    "apellido_p": "Ordenes T.",
+    "apellido_m": "Jaime Ordenes T."
+  },
+  "29493": {
+    "id": 29493,
+    "nombre": "Luis E. Salinas A",
+    "nombre_1": "Luis",
+    "nombre_2": "E.",
+    "apellido_p": "Salinas",
+    "apellido_m": "A"
+  },
+  "29502": {
+    "id": 29502,
+    "nombre": "Juan Paredes V.",
+    "nombre_1": "Juan",
+    "nombre_2": "",
+    "apellido_p": "Paredes V.",
+    "apellido_m": ""
+  },
+  "29524": {
+    "id": 29524,
+    "nombre": "Juan Robles O.",
+    "nombre_1": "Juan ",
+    "nombre_2": "",
+    "apellido_p": "Robles ",
+    "apellido_m": "O."
+  },
+  "29560": {
+    "id": 29560,
+    "nombre": "Hernán Zamora C.",
+    "nombre_1": "Hernán",
+    "nombre_2": "",
+    "apellido_p": "Zamora",
+    "apellido_m": "C."
+  },
+  "29615": {
+    "id": 29615,
+    "nombre": "Julio Orellana R.",
+    "nombre_1": "Julio",
+    "nombre_2": "Cesar",
+    "apellido_p": "Orellana",
+    "apellido_m": "Rodríguez"
+  },
+  "29656": {
+    "id": 29656,
+    "nombre": "Francisco P. Saavedra",
+    "nombre_1": "Francisco",
+    "nombre_2": "",
+    "apellido_p": "P.",
+    "apellido_m": "Saavedra"
+  },
+  "29657": {
+    "id": 29657,
+    "nombre": "Cesar Cancino B.",
+    "nombre_1": "Cesar",
+    "nombre_2": "",
+    "apellido_p": "Cancino",
+    "apellido_m": "B."
+  },
+  "29692": {
+    "id": 29692,
+    "nombre": "Marcos Contreras",
+    "nombre_1": "Marcos",
+    "nombre_2": "",
+    "apellido_p": "Contreras",
+    "apellido_m": "L."
+  },
+  "29706": {
+    "id": 29706,
+    "nombre": "Alexi Sandoval O.",
+    "nombre_1": "Alexi",
+    "nombre_2": "Alejandro",
+    "apellido_p": "Sandoval",
+    "apellido_m": "Ortiz"
+  },
+  "29707": {
+    "id": 29707,
+    "nombre": "Angel Jaque S.",
+    "nombre_1": "Angel",
+    "nombre_2": "",
+    "apellido_p": "Jaque",
+    "apellido_m": "S."
+  },
+  "29808": {
+    "id": 29808,
+    "nombre": "Guillermo Sanchez L.",
+    "nombre_1": "Guillermo",
+    "nombre_2": "",
+    "apellido_p": "Sanchez ",
+    "apellido_m": "Luna"
+  },
+  "32298": {
+    "id": 32298,
+    "nombre": "Victor Moris",
+    "nombre_1": "Victor",
+    "nombre_2": "",
+    "apellido_p": "Moris",
+    "apellido_m": ""
+  },
+  "32323": {
+    "id": 32323,
+    "nombre": "Cristian Meneses S.",
+    "nombre_1": "Cristian",
+    "nombre_2": "Felipe",
+    "apellido_p": "Meneses",
+    "apellido_m": "Silva"
+  },
+  "32665": {
+    "id": 32665,
+    "nombre": "Carlos Arriagada P.",
+    "nombre_1": "Carlos",
+    "nombre_2": "",
+    "apellido_p": "Arriagada",
+    "apellido_m": "P."
+  },
+  "32811": {
+    "id": 32811,
+    "nombre": "Hudo Hernán Toro O.",
+    "nombre_1": "Hudo",
+    "nombre_2": "Hernán ",
+    "apellido_p": "Toro",
+    "apellido_m": "O."
+  },
+  "32997": {
+    "id": 32997,
+    "nombre": "Sebastian Salinas",
+    "nombre_1": "Sebastian",
+    "nombre_2": "",
+    "apellido_p": "Salinas",
+    "apellido_m": ""
+  },
+  "33000": {
+    "id": 33000,
+    "nombre": "Francisco Abarca P. ",
+    "nombre_1": "Francisco",
+    "nombre_2": "",
+    "apellido_p": "Abarca",
+    "apellido_m": "Parada"
+  },
+  "33001": {
+    "id": 33001,
+    "nombre": "Roberto Parra D.",
+    "nombre_1": "Roberto",
+    "nombre_2": "",
+    "apellido_p": "Parra",
+    "apellido_m": "D"
+  },
+  "33002": {
+    "id": 33002,
+    "nombre": "Ricardo Yañez D.",
+    "nombre_1": "Ricardo",
+    "nombre_2": "",
+    "apellido_p": "Yañez",
+    "apellido_m": "D."
+  },
+  "33096": {
+    "id": 33096,
+    "nombre": "Guillermo Muñoz A.",
+    "nombre_1": "Guillermo",
+    "nombre_2": "",
+    "apellido_p": "Muñoz",
+    "apellido_m": "A."
+  },
+  "33192": {
+    "id": 33192,
+    "nombre": "Luis Rivera F.",
+    "nombre_1": "Luis",
+    "nombre_2": "",
+    "apellido_p": "Rivera",
+    "apellido_m": "F."
+  },
+  "33760": {
+    "id": 33760,
+    "nombre": "Manuel A. Velarde S.",
+    "nombre_1": "Manuel",
+    "nombre_2": "",
+    "apellido_p": "Velarde",
+    "apellido_m": ""
+  },
+  "33761": {
+    "id": 33761,
+    "nombre": "Raúl Walker B.",
+    "nombre_1": "Raúl",
+    "nombre_2": "",
+    "apellido_p": "Walker",
+    "apellido_m": ""
+  },
+  "34105": {
+    "id": 34105,
+    "nombre": "Héctor Carvajal F.",
+    "nombre_1": "Héctor",
+    "nombre_2": "",
+    "apellido_p": "Carvajal",
+    "apellido_m": "F."
+  },
+  "34129": {
+    "id": 34129,
+    "nombre": "I. Coelho D.",
+    "nombre_1": "I. Coelho D.",
+    "nombre_2": "I. Coelho D.",
+    "apellido_p": "I. Coelho D.",
+    "apellido_m": "I. Coelho D."
+  },
+  "34130": {
+    "id": 34130,
+    "nombre": "A. Cintra",
+    "nombre_1": "A. Cintra",
+    "nombre_2": "A. Cintra",
+    "apellido_p": "A. Cintra",
+    "apellido_m": "A. Cintra"
+  },
+  "34131": {
+    "id": 34131,
+    "nombre": "J. Salas V.",
+    "nombre_1": "J. Salas V.",
+    "nombre_2": "J. Salas V.",
+    "apellido_p": "J. Salas V.",
+    "apellido_m": "J. Salas V."
+  },
+  "34132": {
+    "id": 34132,
+    "nombre": "J. Mayansky N.",
+    "nombre_1": "J. Mayansky N.",
+    "nombre_2": "J. Mayansky N.",
+    "apellido_p": "J. Mayansky N.",
+    "apellido_m": "J. Mayansky N."
+  },
+  "34133": {
+    "id": 34133,
+    "nombre": "E. MARTIN F.",
+    "nombre_1": "E. MARTIN F.",
+    "nombre_2": "E. MARTIN F.",
+    "apellido_p": "E. MARTIN F.",
+    "apellido_m": "E. MARTIN F."
+  },
+  "34134": {
+    "id": 34134,
+    "nombre": "L. Olivares O.",
+    "nombre_1": "L. Olivares O.",
+    "nombre_2": "L. Olivares O.",
+    "apellido_p": "L. Olivares O.",
+    "apellido_m": "L. Olivares O."
+  },
+  "34136": {
+    "id": 34136,
+    "nombre": "L. Belela",
+    "nombre_1": "Luis",
+    "nombre_2": "",
+    "apellido_p": "Belela",
+    "apellido_m": ""
+  },
+  "34142": {
+    "id": 34142,
+    "nombre": "Carlos Sepulveda B.",
+    "nombre_1": "Carlos",
+    "nombre_2": "Enrique",
+    "apellido_p": "Sepulveda",
+    "apellido_m": "Benitez"
+  },
+  "34173": {
+    "id": 34173,
+    "nombre": "Carlos Raby V.",
+    "nombre_1": "Carlos",
+    "nombre_2": "",
+    "apellido_p": "Raby",
+    "apellido_m": "Vargas"
+  },
+  "34188": {
+    "id": 34188,
+    "nombre": "Jaime Santander S.",
+    "nombre_1": "Jaime",
+    "nombre_2": "",
+    "apellido_p": "Santander ",
+    "apellido_m": "Silva"
+  },
+  "34357": {
+    "id": 34357,
+    "nombre": "Walter Biava R.",
+    "nombre_1": "Walter Biava R.",
+    "nombre_2": "Walter Biava R.",
+    "apellido_p": "Walter Biava R.",
+    "apellido_m": "Walter Biava R."
+  },
+  "34358": {
+    "id": 34358,
+    "nombre": "Oscar Rios C.",
+    "nombre_1": "Oscar Rios C.",
+    "nombre_2": "Oscar Rios C.",
+    "apellido_p": "Oscar Rios C.",
+    "apellido_m": "Oscar Rios C."
+  },
+  "34491": {
+    "id": 34491,
+    "nombre": "Demetrio Mondaca",
+    "nombre_1": "Demetrio",
+    "nombre_2": "",
+    "apellido_p": "Mondaca",
+    "apellido_m": ""
+  },
+  "34536": {
+    "id": 34536,
+    "nombre": "César Díaz P.",
+    "nombre_1": "César",
+    "nombre_2": "",
+    "apellido_p": "Díaz",
+    "apellido_m": "Poblete"
+  },
+  "34597": {
+    "id": 34597,
+    "nombre": "Francisco Mancilla V.",
+    "nombre_1": "Francisco",
+    "nombre_2": "",
+    "apellido_p": "Mancilla V.",
+    "apellido_m": ""
+  },
+  "34669": {
+    "id": 34669,
+    "nombre": "César Nuñez B.",
+    "nombre_1": "César",
+    "nombre_2": "",
+    "apellido_p": "Nuñez",
+    "apellido_m": "B"
+  },
+  "34671": {
+    "id": 34671,
+    "nombre": "Francisco Toledo Z.",
+    "nombre_1": "Francisco",
+    "nombre_2": "",
+    "apellido_p": "Toledo",
+    "apellido_m": "Z."
+  },
+  "34673": {
+    "id": 34673,
+    "nombre": "Nelson Fajardo V.",
+    "nombre_1": "Nelson",
+    "nombre_2": "",
+    "apellido_p": "Fajardo",
+    "apellido_m": "V."
+  },
+  "34686": {
+    "id": 34686,
+    "nombre": "F. Toledo Z.",
+    "nombre_1": "F. Toledo Z.",
+    "nombre_2": "F. Toledo Z.",
+    "apellido_p": "F. Toledo Z.",
+    "apellido_m": "F. Toledo Z."
+  },
+  "34713": {
+    "id": 34713,
+    "nombre": "Jaime Espineira C.",
+    "nombre_1": "Jaime",
+    "nombre_2": "",
+    "apellido_p": "Espineira",
+    "apellido_m": "C"
+  },
+  "34825": {
+    "id": 34825,
+    "nombre": "Patricio Tejo M.",
+    "nombre_1": "P. Tejo M.",
+    "nombre_2": "P. Tejo M.",
+    "apellido_p": "P. Tejo M.",
+    "apellido_m": "P. Tejo M."
+  },
+  "34828": {
+    "id": 34828,
+    "nombre": "Victor Caballeria",
+    "nombre_1": "Victor",
+    "nombre_2": "",
+    "apellido_p": "Caballeria",
+    "apellido_m": ""
+  },
+  "34834": {
+    "id": 34834,
+    "nombre": "Enrique Becar N.",
+    "nombre_1": "E. Becar N.",
+    "nombre_2": "E. Becar N.",
+    "apellido_p": "E. Becar N.",
+    "apellido_m": "E. Becar N."
+  },
+  "34893": {
+    "id": 34893,
+    "nombre": "Héctor Gaete U.",
+    "nombre_1": "Héctor",
+    "nombre_2": "",
+    "apellido_p": "Gaete",
+    "apellido_m": "U."
+  },
+  "34894": {
+    "id": 34894,
+    "nombre": "Juan Rodriguez R.",
+    "nombre_1": "Juan",
+    "nombre_2": "",
+    "apellido_p": "Rodriguez",
+    "apellido_m": "R."
+  },
+  "35027": {
+    "id": 35027,
+    "nombre": "Juan Gonzalez M.",
+    "nombre_1": "Juan",
+    "nombre_2": "",
+    "apellido_p": "Gonzalez",
+    "apellido_m": "M"
+  },
+  "35046": {
+    "id": 35046,
+    "nombre": "Luis Fernandez T.",
+    "nombre_1": "Luis",
+    "nombre_2": "",
+    "apellido_p": "Fernandez",
+    "apellido_m": "T."
+  },
+  "35131": {
+    "id": 35131,
+    "nombre": "Rodrigo Sotelo M.",
+    "nombre_1": "Rodrigo",
+    "nombre_2": "Antonio",
+    "apellido_p": "Sotelo",
+    "apellido_m": "Marchant"
+  },
+  "35132": {
+    "id": 35132,
+    "nombre": "Marco A. Tapia S.",
+    "nombre_1": "Marco",
+    "nombre_2": "Antonio",
+    "apellido_p": "Tapia",
+    "apellido_m": "Sterquel"
+  },
+  "35133": {
+    "id": 35133,
+    "nombre": "Fernando Pilcante P.",
+    "nombre_1": "Fernando",
+    "nombre_2": "",
+    "apellido_p": "Pilcante",
+    "apellido_m": "Pilcante"
+  },
+  "null": {
+    "id": null,
+    "nombre": null,
+    "nombre_1": null,
+    "nombre_2": null,
+    "apellido_p": null,
+    "apellido_m": null
+  }
+}
