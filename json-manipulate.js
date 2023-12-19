@@ -35,7 +35,7 @@ readStream.on('end', () => {
 
     const races = jsonArr.map((v)=>{
         return {
-            id: v?.id_carrera,
+            id: v?.carrera.id_carrera,
             nombre: v?.carrera?.nombre_premio,
             reunion: v?.carrera?.reunion?.id,
             hora: v?.carrera?.hora,
@@ -69,7 +69,12 @@ readStream.on('end', () => {
         }
     })
 
-    fs.writeFileSync(__dirname + '/data/carreras.json', JSON.stringify(races))
+    const chunks = races.length / 4
+
+    fs.writeFileSync(__dirname + '/data/carreras_1.json', JSON.stringify(races.slice(0,chunks)))
+    fs.writeFileSync(__dirname + '/data/carreras_2.json', JSON.stringify(races.slice(chunks,chunks*2)))
+    fs.writeFileSync(__dirname + '/data/carreras_3.json', JSON.stringify(races.slice((chunks*2),chunks*3)))
+    fs.writeFileSync(__dirname + '/data/carreras_4.json', JSON.stringify(races.slice((chunks*3))))
 
 
     }
