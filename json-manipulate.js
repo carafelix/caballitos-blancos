@@ -70,7 +70,7 @@ readStream.on('end', () => {
         }
     })
 
-    fs.writeFileSync(__dirname + '/data/carreras.json', JSON.stringify(races))
+    fs.writeFileSync(__dirname + '/data/carreras_minify.json', JSON.stringify(races))
 
 
 
