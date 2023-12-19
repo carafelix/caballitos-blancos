@@ -71,10 +71,10 @@ readStream.on('end', () => {
 
     const chunks = races.length / 4
 
-    fs.writeFileSync(__dirname + '/data/carreras_1.json', JSON.stringify(races.slice(0,chunks)))
-    fs.writeFileSync(__dirname + '/data/carreras_2.json', JSON.stringify(races.slice(chunks,chunks*2)))
-    fs.writeFileSync(__dirname + '/data/carreras_3.json', JSON.stringify(races.slice((chunks*2),chunks*3)))
-    fs.writeFileSync(__dirname + '/data/carreras_4.json', JSON.stringify(races.slice((chunks*3))))
+    // fs.writeFileSync(__dirname + '/data/carreras_1.json', JSON.stringify(races.slice(0,chunks)))
+    // fs.writeFileSync(__dirname + '/data/carreras_2.json', JSON.stringify(races.slice(chunks,chunks*2)))
+    // fs.writeFileSync(__dirname + '/data/carreras_3.json', JSON.stringify(races.slice((chunks*2),chunks*3)))
+    // fs.writeFileSync(__dirname + '/data/carreras_4.json', JSON.stringify(races.slice((chunks*3))))
 
 
     }
