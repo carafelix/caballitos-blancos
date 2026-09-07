@@ -1,4 +1,7 @@
 # Caballitos Blancos
+
+Nombre de todos los caballos (27663) en [caballitos.txt](caballitos.txt) (muy entretenido)
+
 ## Datos scrapeados del hipodromo de chile, desde el 2003 hasta el 21 de Octubre del 2023 
 Jinetes ganadores de la carrera según peso:
 
